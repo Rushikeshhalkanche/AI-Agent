@@ -1,0 +1,8 @@
+{
+  "rules": [
+    "ALWAYS_USE_CALCULATOR_FIRST"
+  ],
+  "mistakes": {
+    "SKIPPED_REQUIRED_TOOL": 2
+  }
+}
